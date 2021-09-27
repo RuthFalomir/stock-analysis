@@ -7,7 +7,7 @@ During this challenge, we worked on refactoring our code to know if there were b
 We found that refactoring the code worked thanks to the timer method which helped us measure how long it took for the code to accomplish its goal. During the original script for 2017, it ran for 1.51 seconds. However, with our refactored code, it ran for 0.75 seconds. For 2018, the original code ran for 0.85 seconds whereas the refactored code was aprox. 10 seconds faster.
 
 Here you can see the time it took to analyze 2017:
-<img width="952" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/88563922/134840290-dbbb7f0a-230f-4bd6-9c38-49c1fad2b346.PNG">
+<img width="953" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/88563922/134840658-7eeff397-4be6-4f92-9867-08687aa9333c.PNG">
 
 Here you can see the time it took to analyze 2018:
 <img width="952" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/88563922/134840298-0962a9bc-0448-42bc-82bb-8222a29c4c1a.PNG">
